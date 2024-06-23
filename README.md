@@ -44,7 +44,7 @@
   </a>
 </div>
 <h2 align="center">About Mtie</h2>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<a href="https://www.facebook.com/trandangmytien2682003" target="_blank">
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
 
