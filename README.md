@@ -58,3 +58,8 @@
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
 
+<div align="center">
+  <blockquote>
+    <p>"Learning never exhausts the mind." - Leonardo da Vinci</p>
+  </blockquote>
+</div>
