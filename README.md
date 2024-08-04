@@ -31,6 +31,16 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=000000" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=Canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-282C34?logo=Flask&logoColor=FFC20E" alt="Flask logo" title="Flask" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=Swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=0052CC" alt="Trello logo" title="Trello" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
