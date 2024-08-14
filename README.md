@@ -54,7 +54,7 @@
   </a>
 </div>
 <h2 align="center">About Mtie</h2>
-<a href="https://www.facebook.com/trandangmytien2682003" target="_blank">
+<a href="https://github.com/TranDangMyTien" target="_blank">
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
 
@@ -62,6 +62,19 @@
   <blockquote>
     <p>"Learning never exhausts the mind." - Leonardo da Vinci</p>
   </blockquote>
+</div>
+
+<h2 align="center">Connect with Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/trandangmytien/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
+  </a> |
+  <a href="mailto:mytien.2682003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="25" />
+  </a> |
+  <a href="https://www.facebook.com/trandangmytien2682003" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="25" />
+  </a>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=TranDangMyTien&icon=0&color=0)](https://github.com/TranDangMyTien)
