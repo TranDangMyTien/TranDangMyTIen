@@ -53,18 +53,18 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TranDangMyTien&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-<h2 align="center">About Mtie</h2>
+<h2 align="center">🌟 About Mtie 🌟</h2>
 <a href="https://github.com/TranDangMyTien" target="_blank">
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
 
-<div align="center">
-  <blockquote>
+<div align="center" style="margin: 20px 0;">
+  <blockquote style="font-style: italic; color: #555555; border-left: 4px solid #FF5733; padding-left: 20px;">
     <p>"Learning never exhausts the mind." - Leonardo da Vinci</p>
   </blockquote>
 </div>
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">💬Connect with Me 💬</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/trandangmytien/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
