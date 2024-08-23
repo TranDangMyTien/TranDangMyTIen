@@ -58,23 +58,33 @@
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
 
-<div align="center" style="margin: 20px 0;">
-  <blockquote style="font-style: italic; color: #555555; border-left: 4px solid #FF5733; padding-left: 20px;">
-    <p>"Learning never exhausts the mind." - Leonardo da Vinci</p>
+<div style="text-align: center; margin: 20px 0;">
+  <blockquote style="font-style: italic; color: #FFFFFF; border-left: 6px solid #896884; padding-left: 20px; background-color: #896884; border-radius: 10px; padding: 20px;">
+    <p style="font-size: 1.2em; line-height: 1.5; margin: 0; color: #FFFFFF;">
+      "Learning never exhausts the mind." - Leonardo da Vinci
+    </p>
   </blockquote>
 </div>
 
-<h2 align="center">💬Connect with Me 💬</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/trandangmytien/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
-  </a> |
-  <a href="mailto:mytien.2682003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="25" />
-  </a> |
-  <a href="https://www.facebook.com/trandangmytien2682003" >
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="25" />
+
+
+<h2 align="center">💬 Connect with Me 💬</h2>
+<div align="center" style="margin: 20px 0; padding: 15px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
+  <a href="https://www.linkedin.com/in/trandangmytien/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="border-radius: 5px;" />
+  </a>
+  <a href="mailto:mytien.2682003@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" style="border-radius: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/trandangmytien2682003" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="30" style="border-radius: 5px;" />
   </a>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=TranDangMyTien&icon=0&color=0)](https://github.com/TranDangMyTien)
+<div align="center" style="margin: 30px 0;">
+  <div style="display: inline-block; padding: 20px; background: linear-gradient(135deg, #6e8efb, #a777e3); border-radius: 15px; box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);">
+    <p style="color: #fff; font-size: 1em; text-transform: uppercase; font-family: 'Arial Black', font-weight: bold; margin: 0; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">Visitor Count</p>
+    <div style="margin-top: 10px;">
+      <img src="https://profile-counter.glitch.me/TranDangMyTien/count.svg" alt="TranDangMyTien" style="border-radius: 8px; background-color: rgba(255, 255, 255, 0.2); padding: 5px;" />
+    </div>
+  </div>
+</div>
