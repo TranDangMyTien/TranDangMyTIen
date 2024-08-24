@@ -63,9 +63,11 @@
 <a href="https://github.com/TranDangMyTien" target="_blank">
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
+<h2 align="center">✍️ Favorite quote ✍️</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20not%20the%20key%20to%20happiness.%20Happiness%20is%20the%20key%20to%20success.%20If%20you%20love%20what%20you%20are%20doing,%20you%20will%20be%20successful.&author=Albert%20Schweitzer
-)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20not%20the%20key%20to%20happiness.%20Happiness%20is%20the%20key%20to%20success.%20If%20you%20love%20what%20you%20are%20doing,%20you%20will%20be%20successful.&author=Albert%20Schweitzer" alt="Random Quote">
+</div>
 
 
 
