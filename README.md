@@ -45,44 +45,45 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <a href="#" title="Trần Đặng Mỹ Tiên">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDangMyTien&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDangMyTien&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
-  <a href="#" title="Trần Đặng Mỹ Tiên">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TranDangMyTien&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="#" title="Trần Đặng Mỹ Tiên">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=TranDangMyTien&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    </a>
+    <a href="#" title="Trần Đặng Mỹ Tiên">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TranDangMyTien&theme=radical&hide_border=false" />
+    </a>
+  </div>
 </div>
+
 <h2 align="center">🌟 About Mtie 🌟</h2>
 <a href="https://github.com/TranDangMyTien" target="_blank">
   <img src="images/Design_Desktop.png" width="1200" alt="TDMTien-official" />
 </a>
 
-<div style="text-align: center; margin: 20px 0;">
-  <blockquote style="font-style: italic; color: #FFFFFF; border-left: 6px solid #896884; padding-left: 20px; background-color: #896884; border-radius: 10px; padding: 20px;">
-    <p style="font-size: 1.2em; line-height: 1.5; margin: 0; color: #FFFFFF;">
-      "Learning never exhausts the mind." - Leonardo da Vinci
-    </p>
-  </blockquote>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20not%20the%20key%20to%20happiness.%20Happiness%20is%20the%20key%20to%20success.%20If%20you%20love%20what%20you%20are%20doing,%20you%20will%20be%20successful.&author=Albert%20Schweitzer
+)
 
 
 
 <h2 align="center">💬 Connect with Me 💬</h2>
-<div align="center" style="margin: 20px 0; padding: 15px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
-  <a href="https://www.linkedin.com/in/trandangmytien/" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="border-radius: 5px;" />
+<div align="center" style="margin: 20px 0; padding: 10px; background-color: #f5f5f5; border-radius: 8px; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);">
+  <a href="https://www.linkedin.com/in/trandangmytien/" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-  <a href="mailto:mytien.2682003@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" style="border-radius: 5px;" />
+  <a href="mailto:mytien.2682003@gmail.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
-  <a href="https://www.facebook.com/trandangmytien2682003" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="30" style="border-radius: 5px;" />
+  <a href="https://www.facebook.com/trandangmytien2682003" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="30" />
   </a>
 </div>
 <div align="center" style="margin: 30px 0;">
   <div style="display: inline-block; padding: 20px; background: linear-gradient(135deg, #6e8efb, #a777e3); border-radius: 15px; box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);">
-    <p style="color: #fff; font-size: 1em; text-transform: uppercase; font-family: 'Arial Black', font-weight: bold; margin: 0; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">Visitor Count</p>
+    <p style="color: #fff; font-size: 1em; text-transform: uppercase; font-family: 'Arial Black', font-weight: bold; margin: 0; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);"></p>
     <div style="margin-top: 10px;">
       <img src="https://profile-counter.glitch.me/TranDangMyTien/count.svg" alt="TranDangMyTien" style="border-radius: 8px; background-color: rgba(255, 255, 255, 0.2); padding: 5px;" />
     </div>
