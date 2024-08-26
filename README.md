@@ -5,7 +5,45 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python Anywhere](https://img.shields.io/badge/pythonanywhere-%231D9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-%23000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black) ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Google Docs](https://img.shields.io/badge/google%20docs-%234285F4.svg?style=for-the-badge&logo=google-docs&logoColor=white)
+<span><img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python Anywhere-282C34?logo=pythonanywhere&logoColor=1D9FD7" alt="PythonAnywhere logo" title="PythonAnywhere" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pycharm-282C34?logo=Pycharm&logoColor=00000" alt="Pycharm" title="Pycharm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=000000" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=Canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-282C34?logo=Flask&logoColor=FFC20E" alt="Flask logo" title="Flask" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=Swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=0052CC" alt="Trello logo" title="Trello" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00758f" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Google Docs-282C34?logo=google-docs&logoColor=4285F4" alt="Google Docs logo" title="Google Docs" height="25" /></span>
 
 
 
