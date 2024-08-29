@@ -93,6 +93,8 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" height="30" />
   </a>
 </div>
+
+📬 Get in Touch: Feel free to reach out to me at mytien.2682003@gmail.com. I'm always open to connecting and discussing new opportunities.
 <div align="center" style="margin: 30px 0;">
   <div style="display: inline-block; padding: 20px; background: linear-gradient(135deg, #6e8efb, #a777e3); border-radius: 15px; box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);">
     <p style="color: #fff; font-size: 1em; text-transform: uppercase; font-family: 'Arial Black', font-weight: bold; margin: 0; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);"></p>
