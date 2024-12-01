@@ -44,15 +44,43 @@
 <span><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Google Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs logo" title="Google Docs" height="25" /></span>
-
-
-
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira logo" title="Jira" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CI/CD-008000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD logo" title="CI/CD" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Hosting-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hosting logo" title="Hosting" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Domain-5E5DF0?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Domain logo" title="Domain" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SEO-32673F?style=for-the-badge&logo=google&logoColor=white" alt="SEO logo" title="SEO" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Gmail Notifications-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Notification Gmail logo" title="Notification Gmail" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe logo" title="Stripe" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow logo" title="Dialogflow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="Redis" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo logo" title="Expo" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <a href="#" title="Trần Đặng Mỹ Tiên">
       <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=TranDangMyTien&theme=radical&hide_border=false" />
